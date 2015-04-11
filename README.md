@@ -9,5 +9,5 @@ Vuforia iOS SDK
 ```
 platform :ios
    
-pod 'VuforiaSDK', :git => 'git@github.com:taufikobet/vuforiaios.git'
+pod 'VuforiaSDK', :git => 'git@github.com:mihailtarasev/vuforiaios.git'
 ```
